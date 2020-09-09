@@ -1,0 +1,4 @@
+SetupTools==36.5
+Flask==0.10
+Flask_SqlAlchemy==2.3
+CherryPy>=3.0.8,<9.0.0
