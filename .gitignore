@@ -13,6 +13,7 @@
 /default/
 /error_docs/
 /logs/
+/app/logs/
 /Maildir/
 /tmp/
 nbproject/
