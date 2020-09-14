@@ -25,8 +25,6 @@ Call Type API: GET
 <br/>
 Url: http://1.2.3.4:8080/secret/qwerty/
 <br/>
-<br/>
-API answer:
 ```json
 {
     "posix": {
