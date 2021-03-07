@@ -1,4 +1,4 @@
-# API.TIMER.WEBFORYOU.TV #
+# API-TIME-NOW #
 
 Specs
 -----
