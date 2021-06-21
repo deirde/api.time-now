@@ -6,9 +6,7 @@ This API aims to print out a timestamp on which the external systems can relay t
 
 ## Usage
 
-Call Type API: GET
-<br/>
-Url: http://1.2.3.4:8080/secret/qwerty/
+GET: http://1.2.3.4:8080/secret/qwerty/
 <br/>
 
 ```json
