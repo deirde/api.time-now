@@ -3,8 +3,7 @@
 
 from app import app
 from cherrypy import wsgiserver
-from app.config.Config import Config as config_app
-
+from app.config.Config import Config as config_app2
 
 ###
 # The app runner.
